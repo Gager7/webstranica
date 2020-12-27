@@ -1,2 +1,0 @@
-# webstranica
-Web stranica
